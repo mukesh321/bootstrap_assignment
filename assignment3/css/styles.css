@@ -1,0 +1,43 @@
+body{
+    padding: 50px 0px 50px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512DAB;
+}
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom:1px ridge darkgrey ;
+    min-height: 400px;
+}
+.tab-content{
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    border-left: solid 1px #dddddd;
+    padding: 10px;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: #9575CD;
+    color: floralwhite;
+}
+.footer{
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    background-color: #D1C4E9;
+    font-weight: 800px;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: #0F0F0F;
+}
+.form-content{
+    padding: 10px;
+}
